@@ -1,0 +1,5 @@
+Change the output_path parameter accordingly before you run the code
+
+python3 gru.py 50 20 mse random_uniform 0.0001 30 adam 0.4
+python3 lstm.py 50 20 mse random_uniform 0.0001 30 adam 0.4
+
